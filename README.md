@@ -28,17 +28,6 @@ The Books included in the app are provided by the google books api.
 <br>
 
 
-## 📸 ScreenShots
-
-
-
-
-|                                                  |                                                  |
-| -------------------------------------------------| -------------------------------------------------|
-| <img src="./readme-assets/ss1.jpeg" width="400">  | <img src="./readme-assets/ss2.jpeg" width="400">  |
-| <img src="./readme-assets/ss3.jpeg" width="400">  | <img src="./readme-assets/ss4.jpeg" width= "400"> |
-| <img src="./readme-assets/ss5.jpeg" width="400">  | <img src="./readme-assets/ss6.jpeg" width="400">  |
-| <img src="./readme-assets/ss7.jpeg" width="400">  | <img src="./readme-assets/ss8.jpeg" width="400">  |
 
 ## 🔌 Important Plugins used
 
