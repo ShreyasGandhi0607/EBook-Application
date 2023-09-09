@@ -2,8 +2,6 @@
 
 
 
-<p align="center"><a href="http://www.api.google.com/"><img src="./readme-assets/google.gif" width="80%"/></a></p>
-
 The Books included in the app are provided by the google books api.
 <br>
 
@@ -29,11 +27,5 @@ The Books included in the app are provided by the google books api.
 
 
 
-## 🔌 Important Plugins used
-
-| Name                                                    | Usage                                               |
-| ------------------------------------------------------- | --------------------------------------------------- |
-| [**Provider**](https://pub.dev/packages/provider)       | State Management                                    |
-| [**Flutter PDF View**](https://pub.dev/packages/flutter_pdfview)      | Load PDF files within app               | 
 
 
